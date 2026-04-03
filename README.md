@@ -76,7 +76,7 @@
 <br/>
 
 ## 🛠️ Skills
-<p align="center">
+<!--<p align="center">
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center">
@@ -109,7 +109,7 @@
 </td>
 </tr>
 </table>
-</p>
+</p>-->
 
 
 ## 📊 GitHub Stats
