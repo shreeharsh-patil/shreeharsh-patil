@@ -70,11 +70,8 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" height="auto" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeharsh-patil&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" />
-</div>
 
-<br/>
+<br>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
