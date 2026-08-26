@@ -70,10 +70,6 @@
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" height="auto" width="100%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeharsh-patil&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" />
-</div>
-
 <br/>
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -173,5 +169,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,33:00D9F5,66:FF4ECD,100:FF9F1C&height=130&section=footer&animation=twinkling" width="100%" alt="Aurora Animated Footer" />
+  <img src="./assets/footer-aurora.svg" width="100%" alt="Animated Aurora Footer" />
 </div>
