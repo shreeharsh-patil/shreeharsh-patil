@@ -6,7 +6,7 @@
 <br />
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&width=600&height=50&lines=Hello%2C+I'm+Shreeharsh+Patil+👋" alt="Hello, I'm Shreeharsh Patil" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&width=600&height=50&lines=Hello%2C+I'm+Shreeharsh+Patil+👋" alt="Hello, I'm Shreeharsh Patil" />
 </div>
 
 <div align="left">
@@ -14,7 +14,7 @@
   <img align="right" width="380" src="https://cdn.pixabay.com/animation/2022/11/16/11/47/11-47-58-312_512.gif" />
 
   <p align="left">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&width=450&lines=Building+smooth+digital+experiences;Turning+ideas+into+intuitive+UIs;Crafting+fast+and+functional+products" alt="Developer Bio" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B949E&width=450&lines=Building+smooth+digital+experiences;Turning+ideas+into+intuitive+UIs;Crafting+fast+and+functional+products" alt="Developer Bio" />
   </p>
 
   <p>
@@ -68,6 +68,10 @@
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" height="auto" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreeharsh-patil&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -156,7 +160,7 @@
 
   <br/>
 
-  <img src="https://streak-stats.demolab.com/?user=shreeharsh-patil&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreeharsh-patil&theme=dark" alt="GitHub Streak" />
 
   <br/><br/>
 
@@ -165,9 +169,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4ECD&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4ECD&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Footer Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="./assets/footer-aurora.svg" width="100%" alt="Animated Aurora Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,33:00D9F5,66:FF4ECD,100:FF9F1C&height=130&section=footer&animation=twinkling" width="100%" alt="Aurora Animated Footer" />
 </div>
