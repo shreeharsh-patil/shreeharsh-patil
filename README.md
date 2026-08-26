@@ -169,9 +169,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF4ECD&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%E2%9C%A8;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80;See+you+in+the+next+commit+%F0%9F%91%8B" alt="Footer Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:7C3AED,100:00D9FF&height=120&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,33:00D9F5,66:FF4ECD,100:FF9F1C&height=130&section=footer&animation=twinkling" width="100%" alt="Aurora Animated Footer" />
 </div>
