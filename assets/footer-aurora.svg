@@ -1,0 +1,32 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#00F5A0">
+        <animate attributeName="stop-color" values="#00F5A0;#00D9F5;#FF4ECD;#00F5A0" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="35%" stop-color="#00D9F5">
+        <animate attributeName="stop-color" values="#00D9F5;#FF4ECD;#FF9F1C;#00D9F5" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="70%" stop-color="#FF4ECD">
+        <animate attributeName="stop-color" values="#FF4ECD;#FF9F1C;#00F5A0;#FF4ECD" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#FF9F1C">
+        <animate attributeName="stop-color" values="#FF9F1C;#00F5A0;#00D9F5;#FF9F1C" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-80%" width="140%" height="260%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M0 72C150 18 260 125 420 75C585 23 675 120 840 72C1000 26 1105 94 1200 57V150H0V72Z" fill="url(#aurora)" opacity="0.28" filter="url(#glow)">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 72C150 18 260 125 420 75C585 23 675 120 840 72C1000 26 1105 94 1200 57V150H0V72Z;M0 58C145 110 280 20 430 70C595 125 690 24 850 78C1005 129 1100 32 1200 75V150H0V58Z;M0 72C150 18 260 125 420 75C585 23 675 120 840 72C1000 26 1105 94 1200 57V150H0V72Z"/>
+  </path>
+  <path d="M0 91C155 40 285 126 450 88C620 49 725 132 900 86C1040 49 1120 71 1200 84V150H0V91Z" fill="url(#aurora)" opacity="0.8">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 91C155 40 285 126 450 88C620 49 725 132 900 86C1040 49 1120 71 1200 84V150H0V91Z;M0 79C160 127 290 48 455 92C625 137 730 43 895 90C1045 132 1125 54 1200 70V150H0V79Z;M0 91C155 40 285 126 450 88C620 49 725 132 900 86C1040 49 1120 71 1200 84V150H0V91Z"/>
+  </path>
+  <circle cx="170" cy="90" r="3" fill="#fff" opacity="0.9"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="485" cy="70" r="2.5" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="1;0.15;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="810" cy="96" r="3" fill="#fff" opacity="0.8"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/></circle>
+  <circle cx="1050" cy="68" r="2" fill="#fff" opacity="0.9"><animate attributeName="opacity" values="1;0.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+</svg>
