@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/shreeharsh-patil/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
@@ -140,7 +140,7 @@
 
 <br/><br/>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/shreeharsh-patil/">
   <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
