@@ -112,7 +112,7 @@
 
 <h3>⚛️ Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vite&theme=dark" />
 
 <br/><br/>
 
